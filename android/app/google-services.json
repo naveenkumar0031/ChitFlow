@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564831401660",
+    "project_id": "chitflow-149ff",
+    "storage_bucket": "chitflow-149ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564831401660:android:f4de32bd9b8d4372eec2b9",
+        "android_client_info": {
+          "package_name": "com.chitflow.chitflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1hEaRQdHku3-yMuOH4G29SDUlet7d6Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
