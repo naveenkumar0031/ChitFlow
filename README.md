@@ -32,49 +32,25 @@ member can see exactly what happened, every month, with a document to prove it.
 
 ## App Walkthrough
 
-**1. Opening screen** — choose your role.
+<h2>📱 Application Screenshots</h2>
 
-![Opening screen](screenshots/01_opening_screen.jpeg)
+<p align="center">
+  <img src="screenshots/01_opening_screen.jpeg" width="200"/>
+  <img src="screenshots/02_admin_login.jpeg" width="200"/>
+  <img src="screenshots/04_create_member.jpeg" width="200"/>
+</p>
 
-**2. Login** — same login screen for both roles, checked against the account type.
+<p align="center">
+  <img src="screenshots/05_create_chit.jpeg" width="200"/>
+  <img src="screenshots/06_admin_month_list.jpeg" width="200"/>
+  <img src="screenshots/07_update_auction.jpeg" width="200"/>
+</p>
 
-![Admin login](screenshots/02_admin_login.jpeg)
-
-**3. Admin dashboard** — every chit the Admin has created, with quick actions to add a
-new member or start a new chit.
-
-![Admin dashboard](screenshots/03_admin_dashboard.jpeg)
-
-**4. Create a member** — the Admin issues login credentials to each participant.
-
-![Create member](screenshots/04_create_member.jpeg)
-
-**5. Create a chit** — set the pool amount, member count, duration, and pick who's in it.
-
-![Create chit](screenshots/05_create_chit.jpeg)
-
-**6. Monthly auction tracker** — months unlock one at a time as each is completed, so the
-timeline always matches how a real chit fund actually runs.
-
-![Admin month list](screenshots/06_admin_month_list.jpeg)
-
-**7. Record an auction** — date, time, bid amount, winner, dividend, plus the original
-auction sheet as a PDF for proof.
-
-![Update auction](screenshots/07_update_auction.jpeg)
-
-**8. Member dashboard** — a member only ever sees the chits they're part of.
-
-![Member dashboard](screenshots/08_member_dashboard.jpeg)
-
-**9. Member's month view** — read-only, same locking rules apply.
-
-![Member month list](screenshots/09_member_month_list.jpeg)
-
-**10. Auction details + download** — full transparency, with the original document
-one tap away.
-
-![Member view auction](screenshots/10_member_view_auction.jpeg)
+<p align="center">
+  <img src="screenshots/08_member_dashboard.jpeg" width="200"/>
+  <img src="screenshots/09_member_month_list.jpeg" width="200"/>
+  <img src="screenshots/10_member_view_auction.jpeg" width="200"/>
+</p>
 
 ---
 
